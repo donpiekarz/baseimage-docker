@@ -1,5 +1,5 @@
-FROM ubuntu:14.04
-MAINTAINER Phusion <info@phusion.nl>
+FROM donpiekarz/jessie
+MAINTAINER DonPiekarz <DonPiekarz@gmail.com>
 
 ADD . /bd_build
 
